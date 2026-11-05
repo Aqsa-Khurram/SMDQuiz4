@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110308058145",
+    "project_id": "smdquiz4",
+    "storage_bucket": "smdquiz4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110308058145:android:7bab8ba5c04c1eeae06f60",
+        "android_client_info": {
+          "package_name": "com.aqsa.otpquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkazlFh5lo4LWYaP6ZCY50yukPFM0cEdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
